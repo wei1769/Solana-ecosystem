@@ -2,8 +2,6 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/uefTN-dqSRK9H0FIxBJ1BQ/badge)](https://hackmd.io/uefTN-dqSRK9H0FIxBJ1BQ)
 
-
- 
 :::info
 Sollet 錢包是 Solana 生態系支援度最好的錢包，是 Serum 團隊開發出的第一個 Solana 網頁錢包
 :::
@@ -17,7 +15,7 @@ Sollet 錢包是 Solana 生態系支援度最好的錢包，是 Serum 團隊開�
 ### 1.打開[Sollet](https://www.sollet.io)
 
  ![](https://i.imgur.com/yoCpI3y.png)
- 
+
 + 中間白色那塊是註記詞，是網頁隨機生成的
 + 如果怕不安全可以[恢復註記詞](#恢復錢包)
 + 記下24個英文單字後將下面Check box 打勾就能進下一步
@@ -26,7 +24,7 @@ Sollet 錢包是 Solana 生態系支援度最好的錢包，是 Serum 團隊開�
 注意！請保存好註記詞，詞在幣在。
 寫在紙上，或刻在[硬邦邦金屬錢包](https://jlopp.github.io/metal-bitcoin-storage-reviews/)，不要拍照、不要截圖、不要存 [evernote](https://www.blocktempo.com/300-k-stablecoin-hacked-due-to-the-victim-left-wallet-key-online/)
 :::
- 
+
 - [x] <span style="color:red">我已將我的註記詞存放在安全的地方，而且不會以數位的形式存放</span>
 
 ### 2.確認註記詞
@@ -49,11 +47,12 @@ Sollet 錢包是 Solana 生態系支援度最好的錢包，是 Serum 團隊開�
 + 可以看到SOL的餘額
 + Receive點了可以複製錢包地址
 + Send 可以發錢，Solana的手續費極度便宜，普通轉帳只要0.000005 SOL
+
 > ~~可以發進我錢包~~ Eju2tkwFmYLZZyiEEFuHSEGAK9YXkbGsP8sKX57CneEG
+
 + View on Solana 會帶你到[Explorer](https://explorer.solana.com/)
 + Export 可以存取私鑰
 + 右上的 Account 可以連 Ledger 或是創不同帳號、輸出註記詞
-
 
 ## 恢復錢包
 
@@ -88,6 +87,7 @@ Solana 的 Path 規定一直改，目前 sollet 預設是 m/44'/501'/0'/0' 所�
 ## SPL token 地址
 
 ### Mint 新地址
+
 ![](https://i.imgur.com/7Xt3wqk.png)
 
 + 點錢包介面右上角加號
@@ -96,6 +96,7 @@ Solana 的 Path 規定一直改，目前 sollet 預設是 m/44'/501'/0'/0' 所�
 
 + 確定錢包裡有足夠的 SOL （建議放0.1顆以上） 支付 Rent
 + 在列表中選擇要 mint 的 Token 點 ADD
+
 :::warning
 沒在列表內的 Token 要注意安全，不要加來路不明的 Token
 :::
@@ -114,6 +115,7 @@ SPL 地址可以刪除，會退回部分的 Rent。沒 mint 過的 token，從 [
 :::
 
 ## 刪除重複的 Mint
+
 :::info
 有時候從 [FTX](https://ftx.com/#a=wei1769) 轉出會多一個同 Mint 的地址
 :::
@@ -122,7 +124,8 @@ SPL 地址可以刪除，會退回部分的 Rent。沒 mint 過的 token，從 [
 
 
 ### 解決方法
-+ 用 [SPL token UI](/YKeZv7NISY2CODSvQ05ssA)
+
++ 用 [SPL token UI](https://hackmd.io/@wei0403/SJtCp2Hvu)
 
 ## SPL 轉帳
 
@@ -177,7 +180,7 @@ Don't trust, Verify.
 有任何問題都可以私訊[我](https://t.me/wei1769)
 想要補充可以自行加入，或是告訴我漏掉什麼
 覺得本篇有幫助可以分享出去造福更多人
-歡迎自由捐贈
-Solana: Eju2tkwFmYLZZyiEEFuHSEGAK9YXkbGsP8sKX57CneEG
+歡迎自由捐贈  
+Solana: Eju2tkwFmYLZZyiEEFuHSEGAK9YXkbGsP8sKX57CneEG  
 Ethereum, BSC: 0x2618026D22C4F6320FCBAC34C45CC4A1f0A92F6B (wei1769.eth)
 :::
