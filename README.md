@@ -5,13 +5,13 @@
 
 ## 目前進度
 
-### Solana Basic
+### [Solana Basic](https://github.com/williamlin910403/Solana-ecosystem/tree/main/Solana%20Basic)
 
 - [x] [Sollet](https://hackmd.io/@wei0403/Sy36qZNwO)
 - [ ] Sollet Extension
 - [ ] Phantom Wallet
 
-### Solana Application
+### [Solana Application](https://github.com/williamlin910403/Solana-ecosystem/tree/main/Solana%20Application)
 - [x] [SPL Token UI](https://hackmd.io/@wei0403/SJtCp2Hvu)
 - [ ] Raydium
 - [ ] Step
