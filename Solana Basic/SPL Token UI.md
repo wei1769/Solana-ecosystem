@@ -1,5 +1,8 @@
 # SPL token UI
 
+[![hackmd-github-sync-badge](https://hackmd.io/YKeZv7NISY2CODSvQ05ssA/badge)](https://hackmd.io/YKeZv7NISY2CODSvQ05ssA)
+
+
 [TOC]
 
 ## 刪除重複 Mint 的地址
