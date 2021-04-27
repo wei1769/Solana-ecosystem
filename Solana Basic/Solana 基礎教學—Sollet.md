@@ -1,5 +1,8 @@
 # Solana 基礎教學—Sollet 
 
+[![hackmd-github-sync-badge](https://hackmd.io/uefTN-dqSRK9H0FIxBJ1BQ/badge)](https://hackmd.io/uefTN-dqSRK9H0FIxBJ1BQ)
+
+
  
 :::info
 Sollet 錢包是 Solana 生態系支援度最好的錢包，是 Serum 團隊開發出的第一個 Solana 網頁錢包
